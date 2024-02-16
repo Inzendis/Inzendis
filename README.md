@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go and C# with .Net for backend web servers.**
 
-- Future Project - Planning Phase **Replacement web app for Clasificados Online**
+- Future Project - Planning Phase **Improved Web App to compete against a local web.**
 
 - 💬 Ask me about **Next Js 13.5+**
 
