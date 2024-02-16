@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Santiago</h1>
-<h3 align="center">Full stack software engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on **Puertorreal App - Private With Client**
 
