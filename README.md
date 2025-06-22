@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Santiago</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **Puertorreal App - Private With Client**
-
-- 🌱 I’m currently learning **Go and C# with .Net for backend web servers.**
-
-- Future Project - Planning Phase **Improved Web App to compete against a local web.**
-
-- 💬 Ask me about **Next Js 13.5+**
+- 🔭 I worked on **Puertorreal App - Private With Client**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
